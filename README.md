@@ -18,6 +18,8 @@ Table of Contents:
 
 * Part III - Regression
 
+
+
 OBSERVATIONS:
 
 From the above results,
@@ -31,6 +33,17 @@ From the above results,
 * The probability of individual, received new page is 0.5000619442226688
 
 * The propability of new page is round 50% which does not prove that all new treatment page will be more converted.
+
+
+
+A/B TEST:
+hypothesis test:
+
+𝐻0: P𝑛𝑒𝑤 - P𝑜𝑙𝑑 <= 0
+
+𝐻1: P𝑛𝑒𝑤 - P𝑜𝑙𝑑 > 0
+
+
 
 CONCLUSION:
 
