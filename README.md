@@ -51,6 +51,8 @@ plt.xlabel('p_diff values')
 plt.ylabel('Frequency')
 plt.title('p_diff simulation plot')
 
+![image](https://user-images.githubusercontent.com/81925727/117196494-6589d500-ad9b-11eb-8609-947ac5d2d476.png)
+
 
 CONCLUSION:
 
