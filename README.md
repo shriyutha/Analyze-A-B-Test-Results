@@ -43,6 +43,13 @@ hypothesis test:
 
 𝐻1: P𝑛𝑒𝑤 - P𝑜𝑙𝑑 > 0
 
+GRAPH:
+
+p_diffs = np.array(p_diffs)
+plt.hist(p_diffs)
+plt.xlabel('p_diff values')
+plt.ylabel('Frequency')
+plt.title('p_diff simulation plot')
 
 
 CONCLUSION:
